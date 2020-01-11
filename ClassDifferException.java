@@ -23,6 +23,4 @@ public class ClassDifferException extends Exception{
 		 
 		System.out.println(sb.toString());
 	}
-	
-
 }
